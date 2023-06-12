@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hyscient
-- 👀 I’m interested in data engineering, data analytics, data science, SQL, Python, Scala, front-end development, data engineering in GCP 
-- 🌱 I’m currently learning machine learning, artificial intelligence, data engineering with AWS and Microsoft Azure
-- 💞️ I’m looking to collaborate on Full Stack Web Development
-- 📫 How to reach me ihyscient@proton.me
+- 👀 I’m interested in data engineering, data analytics, data science, cloud computing
+- 🌱 I’m currently learning artificial intelligence, data engineering 
+- 💞️ I’m looking to collaborate on Data Analytics 
+- 📫 How to reach me hyscientiyevhe@aol.com
